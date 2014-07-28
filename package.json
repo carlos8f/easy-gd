@@ -29,7 +29,7 @@
     "url": "https://github.com/furagu/easy-gd/issues"
   },
   "dependencies": {
-    "node-gd": "~0.2.3",
+    "node-gd": "git+https://github.com/carlos8f/node-gd.git#stable",
     "buffertools": "~1.1.1",
     "underscore": "~1.4.4",
     "exif-parser": "~0.1.6",
